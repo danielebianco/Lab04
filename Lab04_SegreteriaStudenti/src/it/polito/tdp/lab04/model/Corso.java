@@ -1,8 +1,5 @@
 package it.polito.tdp.lab04.model;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Corso implements Comparable<Corso> {
 
 	private String codins;
