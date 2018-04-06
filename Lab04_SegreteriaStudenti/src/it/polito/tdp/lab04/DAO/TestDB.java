@@ -8,9 +8,6 @@ public class TestDB {
 		 * 	This is a main to check the DB connection
 		 */
 		
-		CorsoDAO cdao = new CorsoDAO();
-		cdao.getTuttiICorsi();
-
 	}
 
 }
